@@ -6,6 +6,9 @@ My name is Oran Bramble, a recent Computer Science graduate from the University 
 
 Current Projects:
 
+- **Acre**
+    - _Leading the technological revolution in the mortgage industry as a Backend Engineer for Acre Software_
+
 - **Data Annotator** 📊
     - _Working for DataAnnotation in helping train programming AI models for languages such as Python and JavaScript_
  
